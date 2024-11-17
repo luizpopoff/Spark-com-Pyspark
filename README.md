@@ -1,7 +1,5 @@
 # Spark-com-Pyspark
 
-# SparkMovies
-
 Este projeto usa PySpark para realizar análises exploratórias em um dataset de filmes, o `movies.csv`. O objetivo principal é entender o funcionamento do Pyspark, extraindo insights sobre o conjunto de dados, incluindo a classificação média dos filmes, a contagem de avaliações e outras métricas de interesse.
 
 ## Configuração Inicial
